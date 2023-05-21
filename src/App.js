@@ -12,8 +12,8 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
-          <Route path="react-upload/blogs" element={<Blogs />} />
-          <Route path="react-upload/contact" element={<Contact />} />
+          <Route path="blogs" element={<Blogs />} />
+          <Route path="contact" element={<Contact />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
