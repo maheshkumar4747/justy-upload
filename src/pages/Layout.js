@@ -6,7 +6,7 @@ const Layout = () => {
       <nav>
         <ul>
           <li>
-            <Link to="react-upload/">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/blogs">Blogs</Link>

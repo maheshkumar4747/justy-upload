@@ -1,8 +1,8 @@
 {
-  "name": "just-upload",
+  "name": "justy-upload",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maheshkumar4747.github.io/just-upload",
+  "homepage": "https://maheshkumar4747.github.io/justy-upload",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
